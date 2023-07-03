@@ -1,0 +1,115 @@
+{
+    "ru": {
+        "exposed_easteregg": "🎙 <b>Хьюстон, сука, нас раскрыли!</>",
+        "api_auth": "🔑 <b>Вот он!</>\nВаш ключ — <code>{}</>;\n⚠ <b>Внимание:</> любой, у кого он есть, может получить доступ к вашей панели управления!",
+        "no_api_keys": "🔑 <b>Для вашего аккаунта нет ключей авторизации!</>",
+        "api_revoked": "🔑 <b>Ключ авторизации отозван!</>",
+        "error_easteregg": "т_т <b>ты втираешь мне какую-то дичь</>",
+        "mocking_setup": "🎱 <b>Данные для подмены установлены!</>",
+        "mocking_reset": "🎱 <b>Данные для подмены сброшены!</>",
+        "hm.rollback": "🔙 <b>Откат и обновление</>\nЭтот метод позволяет совершить переход на самую новую <b>стабильную</> версию юзербота. Вам стоит использовать его, если хотите обновиться со старой версии или же являетесь бетатестером и хотите вернуться на стабильную версию. Все ваши текущие настройки будут сохранены.\n\n⚠ Если ваш юзербот не перезапустился автоматически, запустите его вручную или напишите команду повторно.\n\nПродолжить?",
+        "one_day_left": "📅 <b>Ваша подписка истечёт завтра в {} (UTC+03:00 — МСК)</>\nНе забудьте продлить подписку, иначе ваши данные будут полностью стёрты, когда подписка закончится."
+    },
+    "en": {
+        "exposed_easteregg": "🎙 <b>Houston, fuck, we have a problem!</>",
+        "api_auth": "🔑 <b>Here it is!</>\nYour key is <code>{}</>;\n⚠ <b>Attention:</> anyone who has it can access your control panel!",
+        "no_api_keys": "🔑 <b>There are no authorization keys for your account!</>",
+        "api_revoked": "🔑 <b>The authorization key has been revoked!</>",
+        "error_easteregg": "t_t <b>watafak</>",
+        "mocking_setup": "🎱 <b>Mocking data is set!</>",
+        "mocking_reset": "🎱 <b>Mocking data is reset!</>",
+        "hm.rollback": "🔙 <b>Rollback and update</>\nThis method allows you to switch to the latest <b>stable</> version of the userbot. You should use it if you want to update from an old version or if you are a beta tester and want to return to the stable version. All your current settings will be saved.\n\nContinue?",
+        "one_day_left": "📅 <b>Your subscription will expire tomorrow at {} (UTC+03:00 — MSK)</>\nDon't forget to renew your subscription, otherwise your data will be completely erased when the subscription expires."
+    },
+    "de": {
+        "exposed_easteregg": "🎙 <b>Houston, fuck, wir haben ein Problem!</>",
+        "api_auth": "🔑 <b>Hier ist es!</>\nDein Schlüssel ist <code>{}</>;\n⚠ <b>Achtung:</> Jeder, der ihn hat, kann auf dein Kontrollpanel zugreifen!",
+        "no_api_keys": "🔑 <b>Es gibt keine Autorisierungsschlüssel für dein Konto!</>",
+        "api_revoked": "🔑 <b>Der Autorisierungsschlüssel wurde widerrufen!</>",
+        "error_easteregg": "t_t <b>was für 'n</>",
+        "mocking_setup": "🎱 <b>Mocking-Daten sind gesetzt!</>",
+        "mocking_reset": "🎱 <b>Mocking-Daten sind zurückgesetzt!</>",
+        "hm.rollback": "🔙 <b>Zurückgehen und Aktualisierung</>\nDiese Methode ermöglicht es Ihnen, zur neuesten <b>stabilen</> Version des Userbots zu wechseln. Sie sollten es verwenden, wenn Sie von einer älteren Version aktualisieren möchten oder wenn Sie ein Beta-Tester sind und zur stabilen Version zurückkehren möchten. Alle Ihre aktuellen Einstellungen werden gespeichert.\n\nFortfahren?",
+        "one_day_left": "📅 <b>Ihre Abonnement läuft morgen um {} (UTC+03:00 — MSK) ab</>\nVergessen Sie nicht, Ihr Abonnement zu verlängern, sonst werden Ihre Daten gelöscht, wenn das Abonnement abläuft."
+    },
+    "nl": {
+        "exposed_easteregg": "🎙 <b>Houston, we hebben een probleem!</>",
+        "api_auth": "🔑 <b>Hier is het!</>\nUw sleutel is <code>{}</>;\n⚠ <b>Let op:</> iedereen die hem heeft kan toegang krijgen tot uw controlepaneel!",
+        "no_api_keys": "🔑 <b>Er zijn geen autorisatiesleutels voor uw account!</>",
+        "api_revoked": "🔑 <b>De autorisatiesleutel is ingetrokken!</>",
+        "error_easteregg": "t_t <b>wat</>",
+        "mocking_setup": "🎱 <b>Mocking-gegevens zijn ingesteld!</>",
+        "mocking_reset": "🎱 <b>Mocking-gegevens zijn gereset!</>",
+        "hm.rollback": "🔙 <b>Terugdraaien en upgrade</>\nDeze methode stelt u in staat om over te schakelen naar de nieuwste <b>stabiele</> versie van de userbot. U moet het gebruiken als u wilt updaten vanaf een oude versie of als u een bèta-tester bent en terug wilt naar de stabiele versie. Alle huidige instellingen worden opgeslagen.\n\nDoorgaan?",
+        "one_day_left": "📅 <b>Uw abonnement verloopt morgen om {} (UTC+03:00 — MSK)</>\nVergeet niet om uw abonnement te verlengen, anders worden uw gegevens volledig gewist wanneer het abonnement verloopt."
+    },
+    "uk": {
+        "exposed_easteregg": "🎙 <b>Хьюстон, сука, нас розкрили!</>",
+        "api_auth": "🔑 <b>Ось він!</>\nВаш ключ — <code>{}</>;\n⚠ <b>Увага:</> будь-хто, хто має його, може отримати доступ до вашої панелі керування!",
+        "no_api_keys": "🔑 <b>Для вашого аккаунта немає ключів авторизації!</>",
+        "api_revoked": "🔑 <b>Ключ авторизації скасований!</>",
+        "error_easteregg": "т_т <b>ти втираєш мені якусь дичь</>",
+        "mocking_setup": "🎱 <b>Дані для підробки встановлено!</>",
+        "mocking_reset": "🎱 <b>Дані для підробки скинуто!</>",
+        "hm.rollback": "🔙 <b>Відкат та оновлення</>\nЦей метод дозволяє перейти до останньої <b>стабільної</> версії юзербота. Ви повинні використовувати його, якщо ви хочете оновити з попередньої версії або якщо ви бета-тестер і хочете повернутися до стабільної версії. Всі поточні налаштування будуть збережені.\n\nПродовжити?",
+        "one_day_left": "📅 <b>Ваш підпис закінчується завтра о {} (UTC+03:00 — МСК)</>\nНе забудьте продовжити підпис, інакше всі ваші дані будуть повністю видалені, коли закінчиться підпис."
+    },
+    "es": {
+        "exposed_easteregg": "🎙 <b>¡Houston, mierda, tenemos un problema!</>",
+        "api_auth": "🔑 <b>¡Aquí está!</>\nTu clave es <code>{}</>;\n⚠ <b>Atención:</> ¡cualquiera que la tenga puede acceder a tu panel de control!",
+        "no_api_keys": "🔑 <b>¡No hay claves de autorización para tu cuenta!</>",
+        "api_revoked": "🔑 <b>¡La clave de autorización ha sido revocada!</>",
+        "error_easteregg": "t_t <b>que mierda</>",
+        "mocking_setup": "🎱 <b>¡Los datos de simulación están establecidos!</>",
+        "mocking_reset": "🎱 <b>¡Los datos de simulación están restablecidos!</>",
+        "hm.rollback": "🔙 <b>Revertir y actualizar</>\nEste método le permite cambiar a la última versión <b>estable</> del userbot. Debe usarlo si desea actualizar desde una versión anterior o si es un beta-tester y desea volver a la versión estable. Todas las configuraciones actuales se guardarán.\n\n¿Continuar?",
+        "one_day_left": "📅 <b>Tu suscripción termina mañana a {} (UTC+03:00 — MSK)</>\nNo olvides renovar tu suscripción, de lo contrario, todos tus datos se eliminarán por completo cuando termine tu suscripción."
+    },
+    "fr": {
+        "exposed_easteregg": "🎙 <b>Houston, merde, nous avons un problème!</>",
+        "api_auth": "🔑 <b>Voici!</>\nVotre clé est <code>{}</>;\n⚠ <b>Attention:</> tout le monde qui l'a peut accéder à votre panneau de contrôle!",
+        "no_api_keys": "🔑 <b>Il n'y a pas de clés d'autorisation pour votre compte!</>",
+        "api_revoked": "🔑 <b>La clé d'autorisation a été révoquée!</>",
+        "error_easteregg": "t_t <b>qu'est-ce que c'est</>",
+        "mocking_setup": "🎱 <b>Les données de simulation sont configurées!</>",
+        "mocking_reset": "🎱 <b>Les données de simulation sont réinitialisées!</>",
+        "hm.rollback": "🔙 <b>Rétrogradation et mise à jour</>\nCette méthode vous permet de passer à la dernière version <b>stable</> du userbot. Vous devez l'utiliser si vous souhaitez mettre à jour depuis une version précédente ou si vous êtes un beta-testeur et souhaitez revenir à la version stable. Toutes les configurations actuelles seront sauvegardées.\n\nContinuer?",
+        "one_day_left": "📅 <b>Votre abonnement expire demain à {} (UTC+03:00 — MSK)</>\nN'oubliez pas de renouveler votre abonnement, sinon tous vos données seront complètement supprimées lorsque votre abonnement expirera."
+    },
+    "it": {
+        "exposed_easteregg": "🎙 <b>Houston, merda, abbiamo un problema!</>",
+        "api_auth": "🔑 <b>Ecco!</>\nLa tua chiave è <code>{}</>;\n⚠ <b>Attenzione:</> chiunque la abbia può accedere al tuo pannello di controllo!",
+        "no_api_keys": "🔑 <b>Non ci sono chiavi di autorizzazione per il tuo account!</>",
+        "api_revoked": "🔑 <b>La chiave di autorizzazione è stata revocata!</>",
+        "error_easteregg": "t_t <b>che merda</>",
+        "mocking_setup": "🎱 <b>I dati di simulazione sono impostati!</>",
+        "mocking_reset": "🎱 <b>I dati di simulazione sono resettati!</>",
+        "hm.rollback": "🔙 <b>Ritorna  e aggiornamento</>\nQuesto metodo ti permette di passare alla versione <b>stabile</> più recente del userbot. Devi usarlo se vuoi aggiornare da una versione precedente o se sei un beta-tester e vuoi tornare alla versione stabile. Tutte le impostazioni attuali verranno salvate.\n\nContinuare?",
+        "one_day_left": "📅 <b>La tua sottoscrizione scade domani alle {} (UTC+03:00 — MSK)</>\nNon dimenticare di rinnovare la tua sottoscrizione, altrimenti tutti i tuoi dati verranno completamente eliminati quando scadrà la tua sottoscrizione."
+    },
+    "lb": {
+        "exposed_easteregg": "🎙️ <b>Houston, merde, mir huet e Problem!</>"
+    },
+    "tt": {
+        "exposed_easteregg": "🎙️ <b>Хьюстон, сука, безне ачтылар!</>",
+        "api_auth": "<b>Менә ул!</>\nСезнең ачкыч — <code> {} </>;\n⚠ <b>Игътибар:</> кемдә булса да сезнең контроль панельгә керә ала!",
+        "no_api_keys": "🔑 <b>Сезнең хисап өчен рөхсәт ачкычлары юк!</>",
+        "api_revoked": "🔑 <b>Рөхсәт ачкычы кире алынды!</>",
+        "error_easteregg": "т_т <b>син мине мәгънәсез сүз белән сөртәсең</>",
+        "mocking_setup": "🎱 <b>Редакцияләү өчен мәгълүмат урнаштырылган!</>",
+        "mocking_reset": "🎱 <b>Алмаштыру өчен мәгълүмат яңадан торгызылды!</>",
+        "hm.rollback": "🔙 <b>Кире  вә яңарту</>\nБу ысул юзерботның иң яңа <b>тотрыклы </> версиясенә күчәргә мөмкинлек бирә. Әгәр дә Сез иске версия белән яңартырга яки бета сынаучы булырга теләсәгез һәм тотрыклы версиягә кире кайтырга теләсәгез, сез аны кулланырга тиеш. Сезнең барлык агымдагы көйләүләр сакланачак.\n\nДәвам итәргә?",
+        "one_day_left": "📅<b>Сезнең язылу иртәгә тәмамланачак {} (UTC+03:00 — МСК)</>\nЯзылуны озайтырга онытмагыз, югыйсә язылу тәмамланганнан соң сезнең мәгълүматлар тулысынча бетереләчәк."
+    },
+    "uz": {
+        "exposed_easteregg": "🎙 <b>Hyuston, bzani topishti!</>",
+        "api_auth": "🔑 <b>Mana bu</>\nSizning kalitingiz — <code>{}</>;\n⚠ <b>Diqqat:</>har qanday odamda shu kalit bosa u sizning boshqaruv paneliga kirolidi!",
+        "no_api_keys": "🔑 <b>Sizning akkauntizda kalitlar yoq!</>",
+        "api_revoked": "🔑 <b>Kalitiz ochirildi!</>",
+        "error_easteregg": "т_т <b>san manga jinicha narsala etma</>",
+        "mocking_setup": "🎱 <b>Almashtirish uchun ma'lumotlar saqlandi!</>",
+        "mocking_reset": "🎱 <b>Almashtirish uchun ma'lumotlar bekor qilindi!</>",
+        "hm.rollback": "🔙 <b>Бекор қилиш ва янгилаш</>\nBu narsa engi versiyaga va  <b>barqaror</>versiyaga userbotni otqizadi.Siz buni ishlatshingiz mumkun agar eski versiyani ishlatvotkan bosangiz yoki beta versiyani ishlatvotkan bosangiz va barqaror versiaga qaytmoqchi bosangis. Hichqanaqa malumotlar ochirip tashalmaydi.\n\nDavom etamizmi?",
+        "one_day_left": "📅 <b>Sizning obunangiz tugidi ertaga sogot {} (UTC+03:00 — MSK)</>\nEsizdan chiqmasin obunani tolab qoyishni, tolamasez hamma malumotlariz ochib ketadi obuna tugasa"
+    }
+}
